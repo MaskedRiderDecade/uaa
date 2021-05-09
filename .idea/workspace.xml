@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dbb70cd8-619a-40bb-ac83-50e1e9036ac3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@121.4.81.114" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@121.4.81.114" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1o8w5hViQEdnKYgzupwX2fmYcjc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="ExpandSpringBootSpringBootSettingsPanel" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.ihouse.uaa.util" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.UaaApplication">
+    <configuration name="JwtUtilUnitTests.givenUserDetails" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="uaa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ihouse.uaa.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ihouse.uaa.util" />
+      <option name="MAIN_CLASS_NAME" value="com.ihouse.uaa.util.JwtUtilUnitTests" />
+      <option name="METHOD_NAME" value="givenUserDetails" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MailServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="uaa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ihouse.uaa.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ihouse.uaa.service" />
+      <option name="MAIN_CLASS_NAME" value="com.ihouse.uaa.service.MailServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MailServiceTest.ApiSendEmail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="uaa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ihouse.uaa.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ihouse.uaa.service" />
+      <option name="MAIN_CLASS_NAME" value="com.ihouse.uaa.service.MailServiceTest" />
+      <option name="METHOD_NAME" value="ApiSendEmail" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MailServiceTest.SMTPSendEmail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="uaa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ihouse.uaa.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ihouse.uaa.service" />
+      <option name="MAIN_CLASS_NAME" value="com.ihouse.uaa.service.MailServiceTest" />
+      <option name="METHOD_NAME" value="SMTPSendEmail" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecuredRestAPIIntTests.givenAuthRequest_shouldSucceedWith200" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="uaa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ihouse.uaa.rest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ihouse.uaa.rest" />
+      <option name="MAIN_CLASS_NAME" value="com.ihouse.uaa.rest.SecuredRestAPIIntTests" />
+      <option name="METHOD_NAME" value="givenAuthRequest_shouldSucceedWith200" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UaaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="uaa" />
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="true" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+          <ENTRY IS_ENABLED="true" PARSER="env" PATH=".env" />
+        </ENTRIES>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ihouse.uaa.UaaApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.SecuredRestAPIIntTests.givenAuthRequest_shouldSucceedWith200" />
+      <item itemvalue="JUnit.JwtUtilUnitTests.givenUserDetails" />
+      <item itemvalue="JUnit.MailServiceTest.ApiSendEmail" />
+      <item itemvalue="JUnit.MailServiceTest" />
+      <item itemvalue="JUnit.MailServiceTest.SMTPSendEmail" />
+      <item itemvalue="Spring Boot.UaaApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MailServiceTest.ApiSendEmail" />
+        <item itemvalue="JUnit.JwtUtilUnitTests.givenUserDetails" />
+        <item itemvalue="JUnit.MailServiceTest.SMTPSendEmail" />
+        <item itemvalue="JUnit.MailServiceTest" />
+        <item itemvalue="JUnit.SecuredRestAPIIntTests.givenAuthRequest_shouldSucceedWith200" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:security@121.4.81.114" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:security@121.4.81.114" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@1be7133a" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dbb70cd8-619a-40bb-ac83-50e1e9036ac3" name="Default Changelist" comment="" />
+      <created>1612681344062</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612681344062</updated>
+      <workItem from="1612681346482" duration="3065000" />
+      <workItem from="1612857646566" duration="3335000" />
+      <workItem from="1613026737388" duration="5764000" />
+      <workItem from="1613113027860" duration="8070000" />
+      <workItem from="1613145537245" duration="2944000" />
+      <workItem from="1613211222100" duration="5088000" />
+      <workItem from="1613227661323" duration="3315000" />
+      <workItem from="1613286830164" duration="1616000" />
+      <workItem from="1613455188283" duration="592000" />
+      <workItem from="1613545344706" duration="7405000" />
+      <workItem from="1613713093497" duration="6274000" />
+      <workItem from="1613824366980" duration="3334000" />
+      <workItem from="1614063526035" duration="10051000" />
+      <workItem from="1614151614155" duration="16086000" />
+      <workItem from="1614233677310" duration="23209000" />
+      <workItem from="1614684770552" duration="6589000" />
+      <workItem from="1614960274209" duration="1939000" />
+      <workItem from="1615300115315" duration="246000" />
+      <workItem from="1615300686160" duration="4986000" />
+      <workItem from="1615311105640" duration="909000" />
+      <workItem from="1615371860543" duration="1229000" />
+      <workItem from="1615444287889" duration="1831000" />
+      <workItem from="1616826545300" duration="4198000" />
+      <workItem from="1616855582201" duration="3356000" />
+      <workItem from="1616859940522" duration="843000" />
+      <workItem from="1617359737421" duration="1234000" />
+      <workItem from="1617369517379" duration="848000" />
+      <workItem from="1617370853997" duration="195000" />
+      <workItem from="1617371186149" duration="5299000" />
+      <workItem from="1617447717526" duration="506000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Assign_Data_Sources" timestamp="1616827469922">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Assign_Data_Sources/0.0.1536.824@0.0.1536.824" timestamp="1616827469922" />
+    <state x="361" y="71" width="1164" height="689" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614689044750">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" width="1164" height="689" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1614689044750" />
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1614235347003">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1614235347003" />
+    <state x="673" y="199" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1613553723836">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="673" y="199" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1613553723836" />
+    <state x="548" y="271" width="439" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1614691028390">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="271" width="439" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1614691028390" />
+    <state x="421" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1614245239700">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="421" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1614245239700" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1615308788999">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1615308788999" />
+    <state x="724" y="171" key="FileChooserDialogImpl" timestamp="1616857627569">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="724" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1616857627569" />
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1616860790912">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1616860790912" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1616860790912">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1616860790912" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1616860790912">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1616860790912" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1616860790912">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1616860790912" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1616860790913">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1616860790913" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1616860790913">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1616860790913" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1616860790912">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1616860790912" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1616860790913">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1616860790913" />
+    <state width="1493" height="261" key="GridCell.Tab.2.bottom" timestamp="1616860790913">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1616860790913" />
+    <state width="1493" height="261" key="GridCell.Tab.2.center" timestamp="1616860790913">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1616860790913" />
+    <state width="1493" height="261" key="GridCell.Tab.2.left" timestamp="1616860790913">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1616860790913" />
+    <state width="1493" height="261" key="GridCell.Tab.2.right" timestamp="1616860790913">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1616860790913" />
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1613146739227">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1613146739227" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1616859964981">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1616859964981" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1614237496014">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1614237496014" />
+    <state x="565" y="190" key="chooseDestDirectoryDialog" timestamp="1617359980523">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="565" y="190" key="chooseDestDirectoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1617359980523" />
+    <state x="656" y="302" width="340" height="235" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1614688478315">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="656" y="302" width="340" height="235" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1536.824@0.0.1536.824" timestamp="1614688478315" />
+    <state x="631" y="159" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1614688822013">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="631" y="159" key="com.intellij.database.view.ui.DbObjectDialog/0.0.1536.824@0.0.1536.824" timestamp="1614688822013" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1617447744793">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1617447744793" />
+    <state x="406" y="166" key="extract.method.dialog" timestamp="1614153218914">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="406" y="166" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1614153218914" />
+    <state x="447" y="145" width="642" height="534" key="find.popup" timestamp="1617360865629">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="145" width="642" height="534" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1617360865629" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1614237515791">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1614237515791" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1614253577772">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1614253577772" />
+  </component>
+</project>
