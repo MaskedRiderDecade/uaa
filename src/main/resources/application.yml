@@ -1,0 +1,29 @@
+server:
+  error:
+    whitelabel:
+      enabled: true
+  servlet:
+    encoding:
+      force: true
+spring:
+  datasource:
+    #使用嵌入式数据库时加载data.sql作为初始化脚本
+    initialization-mode: embedded
+  messages:
+    always-use-message-format: false
+    basename: messages
+    encoding: UTF-8
+    fallback-to-system-locale: true
+    use-code-as-default-message: false
+  mvc:
+    throw-exception-if-no-handler-found: true
+  profiles:
+    active: "dev"
+  resources:
+    add-mappings: false
+ihouse:
+  jwt:
+    access-token-expire-time: 5184000
+    header: Authorization
+    prefix: "Bearer "
+    refresh-token-expire-time: 2592000000
